@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "Spiele_Programmieren_Lernen_Hindernislauf": "github:r00b1nh00d/Spiele_Programmieren_Lernen_Hindernislauf#70328d3c415f60e9bf2b5d85e298046165eec146"
+        "hindernislauf": "github:r00b1nh00d/spiele_programmieren_lernen_hindernislauf#70328d3c415f60e9bf2b5d85e298046165eec146"
     },
     "files": [
         "main.blocks",
